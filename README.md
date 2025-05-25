@@ -1,4 +1,4 @@
-# converter
+# Crypto Price Checker
 Crypto to USD price converter/checker | shows current price of listed coin
 
 
